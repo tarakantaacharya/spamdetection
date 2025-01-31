@@ -1,0 +1,12 @@
+kaggle
+pandas
+nltk
+scikit-learn
+xgboost
+numpy
+scipy
+seaborn
+matplotlib
+joblib
+streamlit
+tabulate
