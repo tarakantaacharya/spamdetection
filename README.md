@@ -105,6 +105,13 @@ Make sure to install them before running the app.
 
 ---
 
+## 📚 Documentation  
+For more in-depth details on the project, methodology, and results, check out the following document:  
+[Project Report/Documentation](https://docs.google.com/document/d/13N-qblxnE2BAfs45xXZQwDUMDvgI0Yl4/edit?usp=drive_link&ouid=106279639348725340140&rtpof=true&sd=true)
+
+---
+
+
 ## 📌 Notes  
 - The `.pkl` files (**voting_classifier.pkl & vectorizer.pkl**) are stored in the **Model** and **Vectorizer** folders, respectively.  
 - The dataset (`spam.csv`) is stored in the **Dataset** folder for easy organization.  
