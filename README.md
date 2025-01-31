@@ -107,8 +107,9 @@ Make sure to install them before running the app.
 
 ## 📚 Documentation  
 For more in-depth details on the project, methodology, and results, check out the following document:  
-[Project Report/Documentation](https://docs.google.com/document/d/13N-qblxnE2BAfs45xXZQwDUMDvgI0Yl4/edit?usp=drive_link&ouid=106279639348725340140&rtpof=true&sd=true)
-
+[Project Documentation (DOC)](https://docs.google.com/document/d/13N-qblxnE2BAfs45xXZQwDUMDvgI0Yl4/edit?usp=drive_link&ouid=106279639348725340140&rtpof=true&sd=true)
+if any issues in Document you can refer this below pdf for better understanding
+[Project Documentation (PDF)](https://drive.google.com/file/d/1Ig1EFQuKsDT8jkXAOCnxRS0k_CAa4S2X/view?usp=sharing)
 ---
 
 
