@@ -1,4 +1,4 @@
-# 📩 SMS Spam Detection using Machine Learning  
+![image](https://github.com/user-attachments/assets/f12625c5-ac3d-48fc-a90a-49b922e6b096)# 📩 SMS Spam Detection using Machine Learning  
 
 ## 📌 Overview  
 This project is a **Machine Learning-based SMS Spam Detection System** that classifies messages as **Spam or Ham (Not Spam)**. It follows a complete **end-to-end pipeline**, including **data extraction, cleaning, preprocessing, feature engineering, model ensembling, and evaluation**.  
@@ -82,6 +82,8 @@ pip install -r requirements.txt
 streamlit run streamlitapp.py
 ```
 📌 This will launch a **simple user interface** where users can enter an SMS message and check whether it is **Spam or Ham**.  
+
+![Screenshot 2025-03-20 192845](https://github.com/user-attachments/assets/9d627f16-a312-4655-846e-534c007d4cff)
 
 ---
 
