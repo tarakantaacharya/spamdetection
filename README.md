@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/f12625c5-ac3d-48fc-a90a-49b922e6b096)# 📩 SMS Spam Detection using Machine Learning  
+# 📩 SMS Spam Detection using Machine Learning  
 
 ## 📌 Overview  
 This project is a **Machine Learning-based SMS Spam Detection System** that classifies messages as **Spam or Ham (Not Spam)**. It follows a complete **end-to-end pipeline**, including **data extraction, cleaning, preprocessing, feature engineering, model ensembling, and evaluation**.  
